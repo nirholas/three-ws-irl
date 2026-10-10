@@ -1,0 +1,19 @@
+# @three-ws/irl
+
+> Geofenced, real-world presence for agents and avatars — check in at a GPS spot with a proof-of-presence fix, discover who's nearby, log real encounters, claim real-money drops, and complete agent-signed proof-of-presence quests. The three.ws IRL client.
+
+@three-ws/irl is a JavaScript library from three.ws. Install: `npm install @three-ws/irl`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-irl/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-irl/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-irl/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-irl/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-irl)
+- [npm](https://www.npmjs.com/package/@three-ws/irl)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-irl/issues)

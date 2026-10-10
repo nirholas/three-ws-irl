@@ -1,0 +1,60 @@
+{
+	"name": "@three-ws/irl",
+	"version": "0.2.2",
+	"description": "Geofenced, real-world presence for agents and avatars — check in at a GPS spot with a proof-of-presence fix, discover who's nearby, log real encounters, claim real-money drops, and complete agent-signed proof-of-presence quests. The three.ws IRL client.",
+	"type": "module",
+	"main": "./src/index.js",
+	"module": "./src/index.js",
+	"types": "./src/index.d.ts",
+	"exports": {
+		".": {
+			"types": "./src/index.d.ts",
+			"import": "./src/index.js",
+			"default": "./src/index.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+	"scripts": {
+		"test": "node --test test/*.test.js"
+	},
+	"keywords": [
+		"irl",
+		"geolocation",
+		"geofence",
+		"geohash",
+		"proof-of-presence",
+		"proximity",
+		"ar",
+		"agents",
+		"avatar",
+		"presence",
+		"geocache",
+		"bounty",
+		"quests",
+		"solana",
+		"three.ws",
+		"ai-agents"
+	],
+	"author": "nirholas <support@three.ws>",
+	"license": "Apache-2.0",
+	"homepage": "https://nirholas.github.io/three-ws-irl/",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nirholas/three-ws-irl.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nirholas/three-ws-irl/issues"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"dependencies": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
