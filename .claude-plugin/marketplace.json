@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-irl",
-      "source": "./",
+      "source": "./plugins/three-ws-irl",
       "description": "Geofenced real-world presence for agents and avatars: check-ins, nearby pins, money drops and presence quests.",
+      "category": "development",
       "tags": [
         "geolocation",
         "presence",
