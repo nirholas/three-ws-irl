@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-irl",
+  "version": "0.2.2",
+  "description": "Geofenced real-world presence for agents and avatars: check-ins, nearby pins, money drops and presence quests.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/three-ws-irl",
+  "license": "Apache-2.0",
+  "keywords": [
+    "geolocation",
+    "presence",
+    "avatars",
+    "agents",
+    "sdk",
+    "solana"
+  ],
+  "homepage": "https://nirholas.github.io/three-ws-irl/"
+}

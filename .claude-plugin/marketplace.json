@@ -1,0 +1,22 @@
+{
+  "name": "three-ws-irl",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Geofenced real-world presence for agents and avatars: check-ins, nearby pins, money drops and presence quests.",
+  "plugins": [
+    {
+      "name": "three-ws-irl",
+      "source": "./",
+      "description": "Geofenced real-world presence for agents and avatars: check-ins, nearby pins, money drops and presence quests.",
+      "tags": [
+        "geolocation",
+        "presence",
+        "avatars",
+        "agents",
+        "sdk",
+        "solana"
+      ]
+    }
+  ]
+}
